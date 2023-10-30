@@ -1,6 +1,0 @@
-https://roninkoi.net/projects.html
-https://roninkoi.net/corium.html
-https://roninkoi.net/ShaderLelu/?$cube.frag
-https://roninkoi.net/ShaderLelu/?$mug.frag
-https://roninkoi.net/ShaderLelu/?$vortex.frag
-
